@@ -1,11 +1,11 @@
-# Kilometer to Miles Converter
+# Miles to kilometers Converter
 
-A simple Tkinter-based GUI application to convert kilometers to miles.
+A simple Tkinter-based GUI application to convert miles to kilometers.
 
 ## Features
 
-- Input the distance in kilometers
-- Click the "Calculate" button to see the equivalent distance in miles
+- Input the distance in miles
+- Click the "Calculate" button to see the equivalent distance in kilometers
 - User-friendly interface with Tkinter
 
 ## Requirements
@@ -30,5 +30,16 @@ A simple Tkinter-based GUI application to convert kilometers to miles.
     ```sh
     python your_script_name.py
     ```
-2. **Input the distance in kilometers**.
-3. **Click the "Calculate" button** to see the distance in miles.
+2. **Input the distance in miles**.
+3. **Click the "Calculate" button** to see the distance in kilometers.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contributing
+
+Feel free to open issues or submit pull requests if you have any improvements or suggestions.
+
+## Contact
+For any questions or feedback, please contact juanzamdev@gmail.com.
